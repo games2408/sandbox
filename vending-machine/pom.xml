@@ -4,7 +4,7 @@
 
   <groupId>com.training.initial</groupId>
   <artifactId>vending-machine</artifactId>
-  <version>0.0.0-2-SNAPSHOT</version>
+  <version>0.0.2-1</version>
   <packaging>jar</packaging>
 
   <name>vending-machine</name>
